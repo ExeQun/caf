@@ -1,0 +1,5 @@
+[
+  { "name": "Круассан", "price": 120, "description": "Слоёный, с маслом", "image": "croissant" },
+  { "name": "Тирамису", "price": 250, "description": "Классический итальянский", "image": "tiramisu" },
+  { "name": "Чизкейк", "price": 220, "description": "С малиновым соусом", "image": "cheesecake" }
+]
